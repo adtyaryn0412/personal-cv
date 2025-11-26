@@ -1,0 +1,30 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Smooth transitions (avoid editor warnings for @apply) */
+* {
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f3f4f6; /* tailwind gray-100 */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #3b82f6; /* tailwind blue-500 */
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #2563eb; /* tailwind blue-600 */
+}
+
+/* Text balance: remove @apply to avoid unknown at-rule warnings. If you need
+   advanced text balancing, consider using a JS plugin or utilities. */
+

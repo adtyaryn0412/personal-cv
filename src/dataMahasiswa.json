@@ -1,0 +1,104 @@
+{
+  "id": 1,
+  "slug": "aditya-ryan-affandi-l200230185",
+  "profile": {
+    "full_name": "Aditya Ryan Affandi",
+    "nim": "L200230185",
+    "prodi": "Teknik Informatika",
+    "university": "Universitas Muhammadiyah Surakarta",
+    "angkatan": "2023",
+    "photo_url": "/assets/diriku.jpg",
+    "headline": "Network Engineer & System Security Enthusiast",
+    "short_bio": "A driven Informatics Engineering student with a dual focus on Network Security and Web Development. I actively bridge the gap between theory and practice through rigorous personal projects in system hardening and API development. Currently seeking opportunities to contribute to a dynamic team by delivering secure, high-performance web solutions and robust network architectures.",
+    "location": "Karanganyar, Jawa Tengah",
+    "portfolio_url": "https://github.com/Aditya150417",
+    "social_links": {
+      "github": "https://github.com/Aditya150417",
+      "linkedin": "https://linkedin.com/in/aditya-ryan-affandi-8a7910392",
+      "instagram": "https://instagram.com/adtyaryn",
+      "facebook": "https://www.facebook.com/share/1BdtqU5X71/?mibextid=wwXIfr",
+      "twitter": "https://x.com/blcknetx0",
+      "email": "mailto:aditya.ryan0412@gmail.com"
+    }
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "Django REST Framework",
+      "category": "backend",
+      "level": "advanced",
+      "percentage": 100,
+      "years_of_experience": 2,
+      "icon": "/assets/django.png"
+    },
+    {
+      "id": 2,
+      "name": "ReactJS",
+      "category": "frontend",
+      "level": "intermediate",
+      "percentage": 80,
+      "years_of_experience": 1,
+      "icon": "/assets/react.png"
+    },
+    {
+      "id": 3,
+      "name": "Computer Networking",
+      "category": "networking",
+      "level": "advanced",
+      "percentage": 90,
+      "years_of_experience": 2,
+      "icon": "/assets/networking.png"
+    },
+    {
+      "id": 4,
+      "name": "System Security",
+      "category": "security",
+      "level": "intermediate",
+      "percentage": 80,
+      "years_of_experience": 1,
+      "icon": "/assets/security.png"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Network Infrastructure Lead",
+      "organization": "IT Club UMS",
+      "type": "organization",
+      "start_date": "2024-01-15",
+      "end_date": null,
+      "is_current": true,
+      "description": "Memimpin tim IT Club dalam mengelola infrastruktur jaringan kampus. Melakukan konfigurasi router, switch, dan firewall untuk mendukung aktivitas akademis.",
+      "technologies": ["Cisco", "Linux", "Networking"],
+      "badge_color": "blue"
+    },
+    {
+      "id": 2,
+      "title": "System Security Administrator Intern",
+      "organization": "PT Teknologi Indonesia",
+      "type": "internship",
+      "start_date": "2023-07-01",
+      "end_date": "2023-09-30",
+      "is_current": false,
+      "description": "Melakukan monitoring keamanan sistem, update security patches, dan implementasi security hardening pada server production. Melakukan penetration testing basic untuk mengidentifikasi vulnerability.",
+      "technologies": ["Linux", "Ubuntu Server", "Security Hardening", "Monitoring"],
+      "badge_color": "purple"
+    },
+    {
+      "id": 3,
+      "title": "Backend Development Project",
+      "organization": "Kampus Merdeka Project",
+      "type": "project",
+      "start_date": "2023-03-01",
+      "end_date": "2023-06-30",
+      "is_current": false,
+      "description": "Mengembangkan REST API untuk aplikasi manajemen inventori menggunakan Django REST Framework. Implementasi authentication, validation, dan database optimization.",
+      "technologies": ["Django", "DRF", "PostgreSQL", "Docker"],
+      "badge_color": "green"
+    }
+  ],
+  "statistics": {
+    "views_count": 142,
+    "profile_complete_percent": 95
+  }
+}
