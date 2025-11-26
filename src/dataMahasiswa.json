@@ -7,7 +7,7 @@
     "prodi": "Teknik Informatika",
     "university": "Universitas Muhammadiyah Surakarta",
     "angkatan": "2023",
-    "photo_url": "assets/diriku.jpg",
+    "photo_url": "/assets/diriku.jpg",
     "headline": "Network Engineer & System Security Enthusiast",
     "short_bio": "A driven Informatics Engineering student with a dual focus on Network Security and Web Development. I actively bridge the gap between theory and practice through rigorous personal projects in system hardening and API development. Currently seeking opportunities to contribute to a dynamic team by delivering secure, high-performance web solutions and robust network architectures.",
     "location": "Karanganyar, Jawa Tengah",
